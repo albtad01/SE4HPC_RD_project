@@ -32,4 +32,4 @@ We developed a service named _EcoWay_ as a solution to the mentioned problems, w
 
 [Luca Simei](https://github.com/luca-simei)
 
-[Alberto Taddei](https://github.com/albtad01)
+[Alberto Taddei](https://github.com/albtad01
